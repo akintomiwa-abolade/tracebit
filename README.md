@@ -17,10 +17,10 @@ A secure, scalable audit logging API for applications and services. Track user a
 
 ## Overview
 
-Tracebit is a comprehensive audit logging solution designed for modern applications and services. It provides a secure way to track and monitor user actions, system events, and security incidents with advanced features like encrypted storage, flexible querying, and alerting capabilities.
+`Tracebit is a comprehensive audit logging solution designed for modern applications and services. It provides a secure way to track and monitor user actions, system events, and security incidents with advanced features like encrypted storage, flexible querying, and alerting capabilities.
 
 The API is built with Spring Boot and follows best practices for security, performance, and scalability.
-
+`
 ## Features
 
 ### Security Enhancements
@@ -241,4 +241,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 Tracebit Support - [akintomiwa.abolade@gmail.com](mailto:akintomiwa.abolade@gmail.com)
 
-Project Link: [https://github.com/akintomiwa-abolade/tracebit](https://github.com/yourusername/tracebit)
+Project Link: [https://github.com/akintomiwa-abolade/tracebit](https://github.com/akintomiwa-abolade/tracebit)
